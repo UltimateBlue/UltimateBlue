@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UltimateBlue
 - 👀 I’m interested in programming and electronics
-- 🌱 I’m currently learning go lang
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on making powerful web sites and some other apps
 - 📫 you can reach me via email ultimatebluee@gmail.com
 
